@@ -1,4 +1,0 @@
-[submodule "extern/mongoose"]
-    path = extern/mongoose
-    url = git@github.com:cesanta/mongoose.git
-    shallow = true
